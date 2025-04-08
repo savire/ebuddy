@@ -2,7 +2,7 @@
 ================
 
 ## Introduction
-This is the backend API created as part of eBuddy Recruitment. The API is built using Node.js, Javascript and Express, and is designed to be highly performant and reliable.
+This is the backend API created as part of eBuddy Recruitment. The API is built using Node.js, Typescript and Express, and is designed to be highly performant and reliable.
 
 ## Getting Started
 To get started with the API, follow these steps:
